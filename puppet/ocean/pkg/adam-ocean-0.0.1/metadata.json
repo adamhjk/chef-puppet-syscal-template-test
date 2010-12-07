@@ -1,0 +1,29 @@
+{
+  "dependencies": [
+
+  ],
+  "types": [
+
+  ],
+  "version": "0.0.1",
+  "name": "adam/ocean",
+  "checksums": {
+    "spec/spec_helper.rb": "ca19ec4f451ebc7fdb035b52eae6e909",
+    "lib/puppet/type/README.markdown": "34b8c80ba8683afca99f2d28ca7e70b2",
+    "spec/unit/puppet/provider/README.markdown": "e52668944ee6af2fb5d5b9e798342645",
+    "files/README.markdown": "3d44458cc68d8513b51e3b56c604eec4",
+    "lib/puppet/provider/README.markdown": "3835801d7626dd8d541c4fdf7ca9f3e4",
+    "lib/puppet/parser/functions/README.markdown": "e596ce938864a80fd1e51640cca7f612",
+    "README": "c9727f1c783112431fae90f19fe2029c",
+    "manifests/README.markdown": "b9970454391883e36b55137328792a55",
+    "tests/init.pp": "cccce4c3900da795c24601b7300aa4b1",
+    "templates/README.markdown": "aada0a1952329e46b98695349dba6203",
+    "spec/README.markdown": "32a1fc0121c28aff554ef5d422b8b51e",
+    "spec/spec.opts": "a600ded995d948e393fbe2320ba8e51c",
+    "metadata.json": "d34d0b70aba36510fbc2df4e667479ef",
+    "spec/unit/puppet/type/README.markdown": "de26a7643813abd6c2e7e28071b1ef94",
+    "Modulefile": "5b2091490f88f2e7b503f04e31196888",
+    "manifests/init.pp": "96c55fefc8a7070f41b6f7f3bb086d95",
+    "lib/puppet/facter/README.markdown": "145e26334b4d80e48e9e55ba78800579"
+  }
+}
