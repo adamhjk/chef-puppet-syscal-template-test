@@ -37,8 +37,6 @@ Chef wins by 421353 calls
     Chef: 36243
     Number of calls chef wins by: 421353
 
-Don't belive me?
-
 Do it yourself
 ----
 
@@ -50,4 +48,4 @@ Do it yourself
 If you find a bug
 ----
 
-Send me a pull request - happy to make it more fair, if I screwed something up.
+Send me a pull request - happy to make it more fair.
