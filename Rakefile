@@ -1,3 +1,4 @@
+desc "Generate the benchmarks yourself"
 task :default do
   puts "Cleaning up previous run"
   system("rm -rf /tmp/distant.snakes")
